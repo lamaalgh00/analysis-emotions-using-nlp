@@ -17,15 +17,18 @@ Label	Emotion:
 
 Data was split into 70% training and 30% testing subsets.
 
-Machine Learning Models
-**- Model 1: Logistic Regression with CountVectorizer**
+Machine Learning Models  
+
+**- Model 1: Logistic Regression with CountVectorizer**  
+
 Text data was transformed into word count-based features using CountVectorizer.
 A logistic regression classifier was trained to predict emotion labels based on these features.
 **- Model 2: Linear Support Vector Classifier (SVC) with TfidfVectorizer**
 Text data was transformed into TF-IDF features using TfidfVectorizer, capturing the importance of words in the dataset.
 A linear SVC classifier was trained to predict emotion labels based on these TF-IDF features.
 
-**Deep Learning Model**
+**Deep Learning Model**  
+
 Sequential Neural Network
 - A Sequential model was utilized for deep learning with the following architecture:
 - Embedding Layer: Converts input words into dense vector representations.
