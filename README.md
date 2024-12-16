@@ -4,8 +4,8 @@ This project is a group collaboration focused on analyzing emotions in Arabic tw
 The dataset used in this project is an Arabic Emotions Twitter Dataset, containing over 10,000 tweets. It is specifically curated to represent the most commonly encountered emotion categories in Arabic tweets. The dataset consists of two columns:
 Tweets (text data)
 Labels (numeric, ranging from 0 to 7)
-Emotion Labels:
-Label	Emotion
+
+Label	Emotion: 
 0:	None
 1:	Anger
 2:	Joy
