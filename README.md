@@ -19,11 +19,11 @@ Data was split into 70% training and 30% testing subsets.
 
 Machine Learning Models  
 
-**- Model 1: Logistic Regression with CountVectorizer**  
+- **Model 1: Logistic Regression with CountVectorizer**  
 
 Text data was transformed into word count-based features using CountVectorizer.
 A logistic regression classifier was trained to predict emotion labels based on these features.
-**- Model 2: Linear Support Vector Classifier (SVC) with TfidfVectorizer**
+- **Model 2: Linear Support Vector Classifier (SVC) with TfidfVectorizer**
 Text data was transformed into TF-IDF features using TfidfVectorizer, capturing the importance of words in the dataset.
 A linear SVC classifier was trained to predict emotion labels based on these TF-IDF features.
 
