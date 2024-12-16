@@ -1,4 +1,5 @@
-#Arabic Emotion Analysis using Machine Learning and Deep Learning
+**Arabic Emotion Analysis using Machine Learning and Deep Learning**  
+
 This project is a group collaboration focused on analyzing emotions in Arabic tweets using both machine learning (ML) and deep learning (DL) approaches.
 The dataset used in this project is an Arabic Emotions Twitter Dataset, containing over 10,000 tweets. It is specifically curated to represent the most commonly encountered emotion categories in Arabic tweets. The dataset consists of two columns:
 Tweets (text data)
